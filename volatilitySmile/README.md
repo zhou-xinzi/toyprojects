@@ -1,6 +1,4 @@
-This toy project package consists of two files 
-
-author: Xinzi Zhou (zhou0184@e.ntu.edu.sg)
+This toy project package consists of two files [by Xinzi Zhou (zhou0184@e.ntu.edu.sg)]
 
 1) black76.py: 
     Script description:
